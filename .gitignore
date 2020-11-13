@@ -1,2 +1,5 @@
 *.nb
-MR16_data/*
+MR16_data/**/*
+TW06_data/**/*
+papers/*
+.ipynb_checkpoints/*
