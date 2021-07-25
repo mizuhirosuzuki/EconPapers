@@ -98,6 +98,7 @@ passwords/
 MR16_data/**/*
 TW06_data/**/*
 Avis2018_data/**/*
+Dalbo2021/**/*
 papers/*
 .ipynb_checkpoints/*
 
