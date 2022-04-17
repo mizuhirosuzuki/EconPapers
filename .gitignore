@@ -97,6 +97,7 @@ passwords/
 *.nb
 MR16_data/**/*
 TW06_data/**/*
+Laczo2015/**/*
 Bold2021/**/*
 Avis2018_data/**/*
 Dalbo2021/**/*
