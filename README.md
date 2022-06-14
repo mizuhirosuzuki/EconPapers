@@ -7,3 +7,4 @@ Replications, derivations, and simulations of (mostly development) econ papers.
 - [Julia replication of Munshi and Rosenzweig (2016)](Munshi_Rosenzweig_2016_julia.ipynb)
 - [Random memos on Berry (1992)](Berry1992.ipynb)
 - [Julia numerical exercise on the dynamic model in Duflo et al. (2012)](Duflo2012.ipynb)
+- [Python numerical exercise on the dynamic model in Fafchanps (1993)](Fafchamps_1993.ipynb)
